@@ -1,0 +1,59 @@
+{
+    "billingDetails": {
+      "subscriptionPlan": "Asimith Gold",
+      "billingFrequency": "Annual",
+      "userName": "Javed Khan",
+      "companyName": "Sunpharma Clinics",
+      "address": {
+        "line1": "68, 3rd Cross Rd",
+        "line2": "Akshayanagara East",
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "postalCode": "560076"
+      },
+      "gstNumber": "AVYUW248727725",
+      "supportLink": "https://supportlink.com"
+    },
+    "paymentSummary": {
+      "nextPaymentDueAmount": 300,
+      "nextPaymentDueDate": "12 Jan 2025"
+    },
+    "paymentHistory": [
+      {
+        "date": "12 Jan 2024",
+        "paymentMode": "UPI: someupiid@okicici",
+        "amount": 300,
+        "status": "Pending",
+        "invoice": null
+      },
+      {
+        "date": "13 Jan 2025",
+        "paymentMode": "UPI: someupiid@okicici",
+        "amount": 300,
+        "status": "Paid",
+        "invoice": "Download"
+      },
+      {
+        "date": "13 Jan 2025",
+        "paymentMode": "UPI: someupiid@okicici",
+        "amount": 300,
+        "status": "Paid",
+        "invoice": "Download"
+      },
+      {
+        "date": "13 Jan 2025",
+        "paymentMode": "UPI: someupiid@okicici",
+        "amount": 300,
+        "status": "Paid",
+        "invoice": "Download"
+      },
+      {
+        "date": "13 Jan 2025",
+        "paymentMode": "UPI: someupiid@okicici",
+        "amount": 300,
+        "status": "Paid",
+        "invoice": "Download"
+      }
+    ]
+  }
+  
